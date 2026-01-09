@@ -122,22 +122,22 @@ npm start
 
 ## 💡 What I Learned
 
-✔ Building a real backend using Node.js & Express
-✔ Creating REST APIs for CRUD operations
-✔ Integrating MongoDB with Mongoose
-✔ Connecting React frontend with backend APIs
-✔ Structuring scalable MERN applications
-✔ Deploying a full-stack app to production
+✔ Building a real backend using Node.js & Express  
+✔ Creating REST APIs for CRUD operations  
+✔ Integrating MongoDB with Mongoose  
+✔ Connecting React frontend with backend APIs  
+✔ Structuring scalable MERN applications  
+✔ Deploying a full-stack app to production  
 
 ---
 
 ## 🔮 Future Enhancements
 
-🚀 User authentication (JWT)
-📊 Workout progress tracking
-📅 Filters, categories, and goals
-🛡️ Better validation & error handling
-🎨 UI/UX improvements
+🚀 User authentication (JWT)  
+📊 Workout progress tracking  
+📅 Filters, categories, and goals  
+🛡️ Better validation & error handling  
+🎨 UI/UX improvements  
 
 ---
 
